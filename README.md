@@ -13,3 +13,5 @@ Data analytics project showcasing customer behavior analysis using- Python and i
 - Step 10. Created DAX measures and KPIs.
 - Step 11. Designed an interactive dashboard using charts, cards, slicers, and filters.
 - Step 12. Derived business insights and recommendations from the dashboard.
+  # Dashboard
+  ![Dashboard](https://github.com/GSonam309/Customer-Behavior-Analysis/blob/main/Dashboardscreenshot.png)
